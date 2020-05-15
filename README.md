@@ -1,1 +1,2 @@
-# Covid-19-Detection-Using-CNN
+# COVID-19 Detection Using Deep Learning
+Given That There is Limited COVID-19 testing kit we have to Find Other Alternatives.Blood Test is very Costly, It's Cost Around 5000/-.Since Doctors Frequently Use X-rays For Issue Related to Respiration,Since COVID-19 attacks the epithelial cells that line our respiratory tract, we can use X-rays to analyze the health of a patient’s lungs.and X-rays is cheap also.
